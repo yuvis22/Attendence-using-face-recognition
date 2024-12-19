@@ -86,5 +86,5 @@ while True:
             marAttendence(name)
 
     
-    cv2.imshow('Webcam',img)
-    cv2.waitKey(1)
+    cv2.imshow('Webcam',img) #Showing Cam
+    cv2.waitKey(1) 
