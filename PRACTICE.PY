@@ -1,3 +1,4 @@
+#Function
 def union1 (a1, a2, a3) :
     setl = set (al)
     set2 = set (a2)
