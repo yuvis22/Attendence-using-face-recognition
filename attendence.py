@@ -52,7 +52,7 @@ def marAttendence(name):
 EncodeListKnown=find_encodings(images)
 print('Encoding completed')
 
-#capturing and encoding the current persons image
+
 
 cap=cv2.VideoCapture(0)
 
